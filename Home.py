@@ -16,13 +16,11 @@ st.set_page_config(
 
 # Hero Section
 st.title("Machine Learning Visualizer")
-st.subheader("Watch Machine Learning Algorithms Train in Real-Time")
+st.caption("Watch Machine Learning Algorithms Train in Real-Time")
 
-
-st.markdown("---")
 
 # Features Section
-st.markdown("## Highlights")
+# st.markdown("## Highlights")
 
 col1, col2, col3 = st.columns(3)
 
