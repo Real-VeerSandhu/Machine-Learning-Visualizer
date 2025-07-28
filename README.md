@@ -3,6 +3,8 @@
 **Interactive Machine Learning Algorithm Visualization Platform**
 
 Dashboard [here](https://machine-learning-visualizer.streamlit.app/)
+
+
 ![Sample](https://github.com/Real-VeerSandhu/Machine-Learning-Visualizer/blob/main/demo.png)
 
 ## Overview
